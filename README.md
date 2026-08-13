@@ -13,7 +13,7 @@ This repository contains reproducibility materials for the analyses directly rep
 - GSE166784 Hsd3b6-KO to Awat2-KO cross-model directional concordance
 - GSE17822 human MGD age/sex-adjusted expression and pathway-level sensitivity analyses
 
-The public GitHub repository contains code, small frozen inputs, and analysis outputs. Large processed AnnData files (`*.h5ad`) are intentionally excluded from GitHub and will be included in the archival Zenodo reproducibility release.
+The public GitHub repository contains code, small frozen inputs, and analysis outputs. Large processed AnnData files (`*.h5ad`) are intentionally excluded from GitHub and are packaged in the archival Zenodo reproducibility release.
 
 GSE274497 spatial localization and GSE274496 GLI2 perturbational evidence are used in the manuscript as contextual evidence from the source studies and are not presented as analyses fully reproduced by this repository.
 
@@ -408,7 +408,7 @@ The public GitHub repository contains analysis code, small frozen inputs, and de
 
 https://github.com/benteng-ma/MGD-CoreBranch
 
-The following large processed AnnData files are intentionally excluded from GitHub via `.gitignore` and will be included in the archival Zenodo reproducibility release:
+The following large processed AnnData files are intentionally excluded from GitHub via `.gitignore` and are packaged in the archival Zenodo reproducibility release:
 
 - `source_data/GSE274498/GSE274498_MG_all_rawcounts.h5ad`
 - `source_data/GSE261036/GSE261036_MG_highconfidence_rawcounts.h5ad`
@@ -416,7 +416,7 @@ The following large processed AnnData files are intentionally excluded from GitH
 
 Large public raw sequencing files are not duplicated when they are already available from GEO.
 
-The archival Zenodo DOI will be added after final deposition.
+Zenodo DOI for the archival reproducibility release: https://doi.org/10.5281/zenodo.21914654.
 
 ## Reproducibility status
 
@@ -470,7 +470,7 @@ This README documents the analyses currently implemented in the release reposito
 
 
 
-The public GitHub repository is now available; the archival release will be complete after the Zenodo DOI is added.
+The public GitHub repository is available at https://github.com/benteng-ma/MGD-CoreBranch, and the archival reproducibility release uses the Zenodo DOI https://doi.org/10.5281/zenodo.21914654.
 
 ---
 
@@ -478,7 +478,7 @@ The public GitHub repository is now available; the archival release will be comp
 
 If this code or the associated data are used, please cite the accompanying manuscript and the relevant GEO datasets.
 
-The final manuscript citation and archival Zenodo DOI will be added after deposition. The public repository is https://github.com/benteng-ma/MGD-CoreBranch.
+The public repository is https://github.com/benteng-ma/MGD-CoreBranch. Zenodo DOI for the archival reproducibility release: https://doi.org/10.5281/zenodo.21914654. The final manuscript citation will be added after publication.
 
 ---
 
