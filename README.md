@@ -474,6 +474,10 @@ The public GitHub repository is available at https://github.com/benteng-ma/MGD-C
 
 ---
 
+## Licensing
+
+Original software code authored for this release is licensed under the MIT License; see `LICENSE_CODE.txt`. Original documentation and other original author-generated material are licensed under CC BY 4.0 unless otherwise noted and only to the extent that the authors hold the relevant rights. Files under `source_data/`, including processed derivatives of public GEO datasets, are not relicensed by this release; reuse remains subject to the terms and citation requirements of the original data sources. See `LICENSES.md` for the complete scope.
+
 ## Citation
 
 If this code or the associated data are used, please cite the accompanying manuscript and the relevant GEO datasets.
