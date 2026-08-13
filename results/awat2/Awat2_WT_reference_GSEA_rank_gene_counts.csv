@@ -1,0 +1,7 @@
+Comparison,Numerator,Denominator,Rank_genes
+KO_vs_WT1,KO,WT1,12520
+KO_vs_WT2,KO,WT2,12538
+KO_vs_WT3,KO,WT3,12798
+KO_vs_WTmean,KO,WTmean,12551
+WT3_vs_WT1,WT3,WT1,12626
+WT3_vs_WT2,WT3,WT2,12651

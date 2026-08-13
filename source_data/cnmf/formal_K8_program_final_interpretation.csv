@@ -1,0 +1,9 @@
+Program,Final_annotation,Representative_enrichment,Interpretive_note
+P1,Ductal basal developmental/regulatory GEP,Developmental/transcriptional regulation; GPCR/PLC second-messenger signaling,Do not interpret Eye Development or Opioid Signalling literally
+P2,Ribosomal / translation-associated GEP,Cytoplasmic translation; translation elongation,Housekeeping/ribosomal-content sensitive; not a primary aging mechanism
+P3,Stress-responsive transcription/signaling GEP,STAT3-JUN immediate-response transcription; integrated stress response; NTRK/NGF transcription,Do not label as inflammatory-defense GEP
+P4,Acinar basal / neural-guidance-RTK GEP,Axon/neuron projection guidance; RTK-RHOA-FGFR signaling,Strong acinar-basal identity program
+P5,Ductal suprabasal/ductular structural-signaling GEP,Actin/fiber organization; migration; RTK/RHO; partial cornified-envelope features,Do not interpret B-cell receptor enrichment as immune identity
+P6,Orifice keratinization/cornification GEP,Epidermal/keratinocyte differentiation; skin barrier; cornified envelope,Very strong epithelial cornification program
+P7,Differentiating-meibocyte sterol/lipid-biosynthesis GEP,Cholesterol/sterol biosynthesis; SREBP activation; lipid biosynthesis,Differentiating-stage lipid biosynthesis
+P8,Differentiated-meibocyte specialized meibum-lipid GEP,Wax/plasmalogen biosynthesis; fatty-acid elongation; VLCFA metabolism,Terminal specialized meibum-lipid program

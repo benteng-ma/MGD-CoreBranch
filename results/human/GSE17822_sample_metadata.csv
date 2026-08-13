@@ -1,0 +1,13 @@
+sample,title,MGD,age,Male
+GSM444688,Meibomian Glands Female Normal Replicate 1,0,80,0
+GSM444689,Meibomian Glands Male Normal Replicate 2,0,79,1
+GSM444690,Meibomian Glands Female Normal  Replicate 3,0,85,0
+GSM444691,Meibomian Glands Male Normal  Replicate4,0,70,1
+GSM444692,Meibomian Glands Female Normal  Replicate 5,0,32,0
+GSM444693,Meibomian Glands Male Normal Replicate 6,0,44,1
+GSM444694,Meibomian Glands Male Diseased  Replicate 1,1,77,1
+GSM444695,Meibomian Glands Female Diseased Replicate 2,1,59,0
+GSM444696,Meibomian Glands Female Diseased Replicate 3,1,72,0
+GSM444697,Meibomian Glands Male Diseased Replicate 4,1,78,1
+GSM444698,Meibomian Glands Female Diseased  Replicate 5,1,66,0
+GSM444699,Meibomian Glands Female Diseased Replicate 6,1,88,0

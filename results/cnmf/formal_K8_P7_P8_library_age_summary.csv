@@ -1,0 +1,9 @@
+Program,MG_state,sample,age,normalized_P7_usage,normalized_P8_usage
+P7,Differentiating meibocyte,21M_R1,21M,0.5754315703977528,
+P7,Differentiating meibocyte,21M_R2,21M,0.6126755706107756,
+P7,Differentiating meibocyte,8W_R1,8W,0.5254031355330369,
+P7,Differentiating meibocyte,8W_R2,8W,0.560270874921251,
+P8,Differentiated meibocyte,21M_R1,21M,,0.7163086760016008
+P8,Differentiated meibocyte,21M_R2,21M,,0.7038532438922781
+P8,Differentiated meibocyte,8W_R1,8W,,0.46076346593658735
+P8,Differentiated meibocyte,8W_R2,8W,,0.6076551641388822
