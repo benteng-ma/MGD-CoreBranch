@@ -6,11 +6,17 @@ Reproducibility code and frozen analysis inputs for the study:
 
 ## Current release scope
 
-This release currently contains reproducibility materials for:
+This repository contains reproducibility materials for the analyses directly reprocessed or recalculated in this study, including:
 
 - GSE274498 aging mouse MG formal cNMF analysis
-- GSE261036 Awat2-KO MG-state and pseudobulk analysis
+- GSE261036 Awat2-KO MG-state, pseudobulk, WT-reference, and Leiden-resolution sensitivity analyses
 - GSE166784 Hsd3b6-KO to Awat2-KO cross-model directional concordance
+- GSE17822 human MGD age/sex-adjusted expression and pathway-level sensitivity analyses
+
+The public GitHub repository contains code, small frozen inputs, and analysis outputs. Large processed AnnData files (`*.h5ad`) are intentionally excluded from GitHub and will be included in the archival Zenodo reproducibility release.
+
+GSE274497 spatial localization and GSE274496 GLI2 perturbational evidence are used in the manuscript as contextual evidence from the source studies and are not presented as analyses fully reproduced by this repository.
+
 ## Repository structure
 
 ```text
@@ -389,23 +395,28 @@ The Hsd3b6-to-Awat2 comparison uses an independently defined Hsd3b6 FDR-upregula
 
 ## Data availability
 
-The original datasets are publicly available from NCBI GEO:
+The original datasets directly reanalyzed in this study are publicly available from NCBI GEO:
 
-```text
-GSE274498
-GSE261036
-GSE166784
-```
+- GSE274498
+- GSE261036
+- GSE166784
+- GSE17822
 
-Frozen processed inputs and source-level files required for direct reproduction of the analyses currently included in this release are stored under:
+GSE274497 and GSE274496 are referenced in the manuscript for contextual spatial-localization and GLI2 perturbational evidence from the source studies.
 
-`source_data/`
+The public GitHub repository contains analysis code, small frozen inputs, and derived outputs:
+
+https://github.com/benteng-ma/MGD-CoreBranch
+
+The following large processed AnnData files are intentionally excluded from GitHub via `.gitignore` and will be included in the archival Zenodo reproducibility release:
+
+- `source_data/GSE274498/GSE274498_MG_all_rawcounts.h5ad`
+- `source_data/GSE261036/GSE261036_MG_highconfidence_rawcounts.h5ad`
+- `source_data/GSE261036/GSE261036_MG_Leiden_test.h5ad`
 
 Large public raw sequencing files are not duplicated when they are already available from GEO.
 
-A permanent repository URL and archival DOI will be added after final public deposition.
-
----
+The archival Zenodo DOI will be added after final deposition.
 
 ## Reproducibility status
 
@@ -459,7 +470,7 @@ This README documents the analyses currently implemented in the release reposito
 
 
 
-The public release should therefore be considered complete only after the final repository URL and archival DOI are added.
+The public GitHub repository is now available; the archival release will be complete after the Zenodo DOI is added.
 
 ---
 
@@ -467,7 +478,7 @@ The public release should therefore be considered complete only after the final 
 
 If this code or the associated data are used, please cite the accompanying manuscript and the relevant GEO datasets.
 
-The final manuscript citation, repository URL, and archival DOI will be added after deposition.
+The final manuscript citation and archival Zenodo DOI will be added after deposition. The public repository is https://github.com/benteng-ma/MGD-CoreBranch.
 
 ---
 
