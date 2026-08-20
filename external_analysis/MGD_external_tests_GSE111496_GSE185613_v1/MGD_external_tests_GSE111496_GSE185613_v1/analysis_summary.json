@@ -1,0 +1,26 @@
+{
+  "GSE111496": {
+    "n_HMGEC_arrays": 12,
+    "panel_genes_measurable": 10,
+    "stratified_LPS_module_effect": 0.43749731882166853,
+    "exact_two_sided_P": 0.015,
+    "DHT0_effect": 0.3294965781753916,
+    "DHT1_effect": 0.5454980594679455,
+    "interaction_P": 0.4072855040073556,
+    "leave_one_out_P_min": 0.005,
+    "leave_one_out_P_max": 0.045,
+    "max_variance_probe_sensitivity_P": 0.025
+  },
+  "GSE185613": {
+    "n_samples": 12,
+    "panel_genes_measurable": 10,
+    "time_adjusted_HFD_effect": -0.5635609538000148,
+    "exact_two_sided_P": 0.2962962962962963,
+    "time_specific_effects": {
+      "9h": -1.0232271761911813,
+      "15h": 0.1745650319837401,
+      "21h": -0.8420207171926024
+    },
+    "rank_score_P": 0.28703703703703703
+  }
+}

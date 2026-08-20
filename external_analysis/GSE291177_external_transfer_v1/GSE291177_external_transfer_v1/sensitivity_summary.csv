@@ -1,0 +1,4 @@
+analysis,genes_used,effect_UVB_minus_control,exact_P_two_sided,complete_UVB_above_control_separation
+All-17-sample z-standardization,9,1.1621276619116303,0.02857142857142857,True
+Gene-wise percentile-rank score,9,0.3842592592592594,0.02857142857142857,True
+Leave-one-gene-out range,8,1.196160 to 1.341517,0.028571 to 0.028571,True

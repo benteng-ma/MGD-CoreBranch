@@ -1,0 +1,18 @@
+GSM,title,library_name,TPM_column,genotype,treatment,group
+GSM8830380,Control_Wild-type 1,C_WT_91431,C_WT_91431_MG,Wild-type,no treatment,Control_WT
+GSM8830381,Control_Wild-type 2,C_WT_235951,C_WT_235951_MG,Wild-type,no treatment,Control_WT
+GSM8830382,Control_Wild-type 3,C_WT_396025,C_WT_396025_MG,Wild-type,no treatment,Control_WT
+GSM8830383,Control_Wild-type 4,C_WT_396953,C_WT_396953_MG,Wild-type,no treatment,Control_WT
+GSM8830384,Contro_Transgenic P1.hMR 1,C_TG_382924,C_TG_382924_MG,Transgenic P1.hMR,no treatment,Control_TG
+GSM8830385,Contro_Transgenic P1.hMR 2,C_TG_396092,C_TG_396092_MG,Transgenic P1.hMR,no treatment,Control_TG
+GSM8830386,Contro_Transgenic P1.hMR 3,C_TG_904261,C_TG_904261_MG,Transgenic P1.hMR,no treatment,Control_TG
+GSM8830387,Contro_Transgenic P1.hMR 4,C_TG_914001,C_TG_914001_MG,Transgenic P1.hMR,no treatment,Control_TG
+GSM8830388,Contro_Transgenic P1.hMR 5,C_TG_914783,C_TG_914783_MG,Transgenic P1.hMR,no treatment,Control_TG
+GSM8830389,UVB_Wild-type 1,U_WT_395857,U_WT_395857_MG,Wild-type,UVB treatment on eyelids,UVB_WT
+GSM8830390,UVB_Wild-type 2,U_WT_713642,U_WT_713642_MG,Wild-type,UVB treatment on eyelids,UVB_WT
+GSM8830391,UVB_Wild-type 3,U_WT_904250,U_WT_904250_MG,Wild-type,UVB treatment on eyelids,UVB_WT
+GSM8830392,UVB_Transgenic P1.hMR 1,U_TG_91817,U_TG_91817_MG,Transgenic P1.hMR,UVB treatment on eyelids,UVB_TG
+GSM8830393,UVB_Transgenic P1.hMR 2,U_TG_372932,U_TG_372932_MG,Transgenic P1.hMR,UVB treatment on eyelids,UVB_TG
+GSM8830394,UVB_Transgenic P1.hMR 3,U_TG_380381,U_TG_380381_MG,Transgenic P1.hMR,UVB treatment on eyelids,UVB_TG
+GSM8830395,UVB_Transgenic P1.hMR 4,U_TG_381797,U_TG_381797_MG,Transgenic P1.hMR,UVB treatment on eyelids,UVB_TG
+GSM8830396,UVB_Transgenic P1.hMR 5,U_TG_396532,U_TG_396532_MG,Transgenic P1.hMR,UVB treatment on eyelids,UVB_TG

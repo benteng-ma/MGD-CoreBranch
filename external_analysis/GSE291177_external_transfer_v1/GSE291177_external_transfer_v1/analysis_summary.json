@@ -1,0 +1,42 @@
+{
+  "primary_contrast": "UVB_WT vs Control_WT",
+  "control_libraries": 4,
+  "uvb_libraries": 3,
+  "panel_defined_genes": [
+    "Cxcl5",
+    "Cxcl1",
+    "Cxcl2",
+    "Ccl20",
+    "Slpi",
+    "S100a8",
+    "Ifitm1",
+    "Ifitm3",
+    "Il1rn",
+    "Lcn2"
+  ],
+  "panel_measurable_genes": [
+    "Cxcl1",
+    "Cxcl2",
+    "Ccl20",
+    "Slpi",
+    "S100a8",
+    "Ifitm1",
+    "Ifitm3",
+    "Il1rn",
+    "Lcn2"
+  ],
+  "panel_not_represented": [
+    "Cxcl5"
+  ],
+  "gene_directions_up": 9,
+  "gene_directions_total": 9,
+  "module_difference": 1.2577026812926735,
+  "exact_one_sided_P": 0.02857142857142857,
+  "exact_two_sided_P": 0.02857142857142857,
+  "complete_separation": true,
+  "P1hMR_secondary_difference": 1.3647735878345832,
+  "P1hMR_exact_two_sided_P": 0.007936507936507936,
+  "UVB_by_TG_interaction_P": 0.41587073011868697,
+  "PCA_PC1_variance_fraction": 0.48335649460496166,
+  "PCA_PC2_variance_fraction": 0.08985860191981432
+}
